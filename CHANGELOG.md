@@ -3,4 +3,4 @@
 ## 0.1.0.0 -- 2024-01-07
 
 * To compile and run:
-    $cabal build && clear && cable run
+    $cabal build && clear && cabal run
